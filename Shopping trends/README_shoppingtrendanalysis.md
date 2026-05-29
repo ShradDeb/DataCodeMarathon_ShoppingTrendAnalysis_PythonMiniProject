@@ -234,6 +234,8 @@ This analysis can support:
 **Shraddha Debata**
 
 GitHub: [ShradDeb](https://github.com/ShradDeb)
+Tableau: https://public.tableau.com/app/profile/shraddha.debata2941/vizzes
+LinkedIn: https://www.linkedin.com/in/shraddha-debata-59726094
 
 ## License
 
